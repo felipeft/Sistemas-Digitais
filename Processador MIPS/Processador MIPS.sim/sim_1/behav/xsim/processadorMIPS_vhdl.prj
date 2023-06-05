@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../projeto MIPS/pkg_mips.vhd" \
+"../../../../projeto MIPS/registrador.vhd" \
+"../../../../projeto MIPS/bancoRegistradores.vhd" \
+"../../../../projeto MIPS/ula.vhd" \
+"../../../../projeto MIPS/datapath.vhd" \
+"../../../../projeto MIPS/unidadeControle.vhd" \
+"../../../../projeto MIPS/processadorMIPS.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/felip/Desktop/Faculdade/Sistemas Digitais/Processador MIPS/projeto MIPS/datapath.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'datapath'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/felip/Desktop/Faculdade/Sistemas Digitais/Processador MIPS/projeto MIPS/unidadeControle.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'unidadeControle'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/felip/Desktop/Faculdade/Sistemas Digitais/Processador MIPS/projeto MIPS/processadorMIPS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'processadorMIPS'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/felip/Desktop/Faculdade/Sistemas Digitais/Processador MIPS/Processador MIPS.srcs/sim_1/new/testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'testbench'
